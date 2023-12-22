@@ -28,3 +28,14 @@
 
 #### Contato
 - 📫 example@example.com
+
+<br>
+<br>
+<br>
+
+<p align="center" style="color:red"><i><strong> ✨✨ VALEU A VISITA, VOLTE SEMPRE QUE QUISER!!! ✨✨</strong></i></p> <br>
+
+<span style="color:red">Este é um texto vermelho</span>
+
+
+![dormrm](https://user-images.githubusercontent.com/55817291/172018305-abd0c03f-6e3c-4bec-80f7-e2f739be5f69.gif)
