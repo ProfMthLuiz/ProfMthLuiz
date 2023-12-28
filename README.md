@@ -24,7 +24,11 @@
 - [Medical Group Website](https://github.com/seu_usuario/projeto-2) React + NodeJs + SQLite
 
 #### Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ProfMthLuiz&show_icons=true)
+<div align="center">
+  <a href="https://github.com/CoeMatheusLuiz"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProfMthLuiz&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfMthLuiz&layout=compact&langs_count=7&theme=monokai"/>
+</div>
 
 #### Contato
 - 📫 example@example.com
