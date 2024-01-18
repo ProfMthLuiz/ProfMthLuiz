@@ -20,8 +20,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"/> MySQL
 
 #### Projetos em Destaque
-- [Medical Group Mobile](https://github.com/seu_usuario/projeto-1) React Native + NodeJs + SQLite
-- [Medical Group Website](https://github.com/seu_usuario/projeto-2) React + NodeJs + SQLite
+- x.x NENHUM
 
 #### Estatísticas do GitHub
 <div align="center">
