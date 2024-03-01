@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo ao meu github do Senai! 😄 📚 <br><br>Eu sou o profº Matheus. Tudo bom com você? 👋
+### Olá, seja bem-vindo ao meu github do Senai! 😄 📚 <br><br>Tudo bom com você? 👋
 
 #### Sobre mim
 - 👨‍💻 Desenvolvedor apaixonado pelo front-end;
