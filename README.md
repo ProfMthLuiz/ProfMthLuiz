@@ -5,7 +5,7 @@
 - 🌱 Aprendendo sempre;
 - 🏠 Caseiro;
 - 🎮 ( +/- ) Gamer;
-- 💻 Steam - https://steamcommunity.com/id/tikizer4/
+- 💻 Steam https://steamcommunity.com/id/tikizer4/
 - 📺 Amo assistir séries/filmes em familia;
 
 #### Linguagens e Ferramentas
