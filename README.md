@@ -21,7 +21,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="20" height="20"/> MySQL
 
 #### Projetos em Destaque
-- x.x NENHUM
+<a href="https://github.com/ProfMthLuiz/SesiReactNative"><p>- 💻 Sesi React Native</p></a> <br>
 
 #### Estatísticas do GitHub
 <div align="center">
