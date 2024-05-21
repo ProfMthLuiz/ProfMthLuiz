@@ -2,6 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000%&height=70&duration=4000&lines=Olá!+👋;+Seja+bem+vindo+ao+meu+github+do+Senai!📚;+Tudo+bem+com+você?😄" />
 </h1>
 
+<br>
+
+<div align="center">
+    
+![snake gif](https://github.com/ProfMthLuiz/ProfMthLuiz/blob/output/github-contribution-grid-snake.gif)
+
+</div>
+
+<br>
+
 #### Sobre mim
 - 👨‍💻 Desenvolvedor apaixonado pelo front-end;
 - 🌱 Aprendendo sempre;
@@ -39,9 +49,4 @@
 <br>
 <br>
 
-![snake gif](https://github.com/ProfMthLuiz/ProfMthLuiz/blob/output/github-contribution-grid-snake.gif)
-
-<br>
 <p align="center"><i><strong> ✨✨ ~ VALEU A VISITA, VOLTE SEMPRE QUE QUISER!!! ✨✨</strong></i></p> <br>
-
-![dormrm](https://user-images.githubusercontent.com/55817291/172018305-abd0c03f-6e3c-4bec-80f7-e2f739be5f69.gif)
