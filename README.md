@@ -46,7 +46,4 @@
 - 📫 Eu não vou te passar!
 
 <br>
-<br>
-<br>
-
 <p align="center"><i><strong> ✨✨ ~ VALEU A VISITA, VOLTE SEMPRE QUE QUISER!!! ✨✨</strong></i></p> <br>
