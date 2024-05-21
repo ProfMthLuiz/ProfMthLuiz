@@ -39,7 +39,9 @@
 <br>
 <br>
 
-<p align="center"><i><strong> ✨✨ ~ VALEU A VISITA, VOLTE SEMPRE QUE QUISER!!! ✨✨</strong></i></p> <br>
+![snake gif](https://github.com/ProfMthLuiz/ProfMthLuiz/blob/output/github-contribution-grid-snake.gif)
 
+<br>
+<p align="center"><i><strong> ✨✨ ~ VALEU A VISITA, VOLTE SEMPRE QUE QUISER!!! ✨✨</strong></i></p> <br>
 
 ![dormrm](https://user-images.githubusercontent.com/55817291/172018305-abd0c03f-6e3c-4bec-80f7-e2f739be5f69.gif)
