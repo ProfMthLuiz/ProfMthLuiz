@@ -5,8 +5,6 @@
 <br>
 
 <div align="center">
-    
-![snake gif](https://github.com/ProfMthLuiz/ProfMthLuiz/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
