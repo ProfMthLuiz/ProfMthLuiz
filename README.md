@@ -11,7 +11,7 @@
 </div>
 
 
-### Sobre mim
+### Sobre
 - 👨‍💻 Desenvolvedor apaixonado pelo front-end;
 - 🌱 Aprendendo sempre;
 - 🏠 Caseiro;
