@@ -1,9 +1,4 @@
-<picture>
-  <img media="(prefers-color-scheme: dark)" src="https://readme-typing-svg.herokuapp.com?font=Sacramento&color=%bebebe&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem+vindo+ao+meu+github+do+Senai!📚;+Tudo+bem+com+você?😄" alt="Typing SVG" style="display: inline-block;">
-
-   <img media="(prefers-color-scheme: light)" src="https://readme-typing-svg.herokuapp.com?font=Sacramento&color=%23006400&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem+vindo+ao+meu+github+do+Senai!📚;+Tudo+bem+com+você?😄" alt="Typing SVG" style="display: inline-block;">
-</picture>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&color=%bebebe&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem+vindo+ao+meu+github+do+Senai!📚;+Tudo+bem+com+você?😄" alt="Typing SVG" style="display: inline-block;">
 
 <br>
 
