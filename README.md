@@ -1,6 +1,7 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000%&height=70&duration=4000&lines=Olá!+👋;+Seja+bem+vindo+ao+meu+github+do+Senai!📚;+Tudo+bem+com+você?😄" />
-</h1>
+<div align="center" style="display: inline-block;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem+vindo+ao+meu+github+do+Senai!📚;+Tudo+bem+com+você?😄" alt="Typing SVG" style="display: inline-block;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;">
+</div>
 
 <br>
 
