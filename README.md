@@ -41,9 +41,10 @@
 #### Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/ProfMthLuiz/ProfMthLuiz"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProfMthLuiz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfMthLuiz&layout=compact&langs_count=7&theme=cobalt"/>
+  <img align="center" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ProfMthLuiz&theme=cobalt&border=61dafb&hide_border=true" alt="dev"/>
+      <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfMthLuiz&theme=cobalt&layout=compact&langs_count=20&hide_title=true"/>
 </div>
+
 
 #### Contato
 - 📫 Eu não vou te passar!
