@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=%bebebe&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem+vindo+ao+meu+github+do+Senai!📚;+Tudo+bem+com+você?😄" alt="Typing SVG" style="display: inline-block;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&color=%bebebe&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem+vindo+ao+meu+github+do+Senai!📚;+Tudo+bem+com+você?😄" alt="Typing SVG" style="display: inline-block;">
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 </div>
 
 
-#### Sobre mim
+### Sobre mim
 - 👨‍💻 Desenvolvedor apaixonado pelo front-end;
 - 🌱 Aprendendo sempre;
 - 🏠 Caseiro;
@@ -19,7 +19,7 @@
 - 💻 Steam https://steamcommunity.com/id/tikizer4/
 - 📺 Amo assistir séries/filmes em familia;
 
-#### Linguagens e Ferramentas
+### Linguagens e Ferramentas
 
 <table align="center">
   <tr>
@@ -58,10 +58,10 @@
   </tr>
 </table>
 
-#### Projetos em Destaque
+### Projetos em Destaque
 - 💻 [Sesi React Native](https://github.com/ProfMthLuiz/SesiReactNative) <br>
 
-#### Estatísticas do GitHub
+### Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/ProfMthLuiz/ProfMthLuiz"></a>
   <img align="center" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ProfMthLuiz&theme=cobalt&border=61dafb&hide_border=true" alt="dev"/>
@@ -73,8 +73,11 @@
 - 📫 Eu não vou te passar!
 
 <br>
-<p align="center"><i><strong> ✨✨ ~ VALEU A VISITA, VOLTE SEMPRE QUE QUISER!!! ✨✨</strong></i></p> <br>
 <div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&color=%bebebe&size=48&center=true&vCenter=true&width=1200&height=100&lines=Volte+sempre+que+quiser!!!+✨✨" alt="Typing SVG" style="display: inline-block;">
+</p>
+
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" style="display: inline-block;">
 </div>
 
