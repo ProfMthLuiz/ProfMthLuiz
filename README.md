@@ -24,10 +24,10 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://cdn-icons-png.flaticon.com/512/246/246185.png" alt="icon" width="57" height="65" />
+        <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" alt="icon" width="57" height="65" />
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3OWQyZWI0MWU1YjM4Zjk3OTI0NTU5NDEyMWU5OTc3N2E5NWYxZiZjdD1z/fsEaZldNC8A1PJ3mwp/giphy.gif" width="48" height="48" alt="css" />
     </td>  
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
