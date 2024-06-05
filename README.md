@@ -58,9 +58,6 @@
   </tr>
 </table>
 
-### Projetos em Destaque
-- 💻 [Sesi React Native](https://github.com/ProfMthLuiz/SesiReactNative) <br>
-
 ### Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/ProfMthLuiz/ProfMthLuiz"></a>
@@ -70,7 +67,7 @@
 
 
 #### Contato
-- 📫 Eu não vou te passar!
+<a href="https://www.linkedin.com/in/matheus-luiz99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br>
 <div align="center">
