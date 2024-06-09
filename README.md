@@ -12,7 +12,7 @@
 <br>
 <br>
 <div align="center">
-  <h2><img src="https://cdn-icons-png.flaticon.com/512/3706/3706499.png" width="25" height="25" alt="Imagem icon sobre" />  Sobre </h2>
+  <h2><img src="https://cdn-icons-png.flaticon.com/512/3706/3706499.png" width="25" height="25" alt="Imagem icon sobre" />   Sobre </h2>
     👨‍💻  Desenvolvedor apaixonado pelo front-end;  <br>
     🌱 <strong>Aprendendo sempre;</strong> <br>
     🏠 Caseiro; <br>
@@ -23,7 +23,7 @@
 
 <br>
 <br>
-<div align="center"> <h2><img src="https://cdn-icons-png.flaticon.com/512/2572/2572708.png" width="25" height="25" alt="Imagem icon sobre" />  Linguagens e Ferramentas </h2></div>
+<div align="center"> <h2><img src="https://cdn-icons-png.flaticon.com/512/2572/2572708.png" width="25" height="25" alt="Imagem icon sobre" />   Linguagens e Ferramentas </h2></div>
 <table align="center">
   
   <tr>
@@ -65,7 +65,7 @@
 <br>
 <br>
 <div align="center">
-  <h2>Estatísticas do GitHub</h2>
+  <h2><img src="https://cdn-icons-png.flaticon.com/512/3309/3309960.png" width="25" height="25" alt="Imagem icon sobre" />   Estatísticas do GitHub</h2>
   <a href="https://github.com/ProfMthLuiz/ProfMthLuiz"></a>
   <img align="center" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ProfMthLuiz&theme=cobalt&border=61dafb&hide_border=true" alt="dev"/>
   <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfMthLuiz&theme=cobalt&layout=compact&langs_count=20&hide_title=true"/>
@@ -74,7 +74,7 @@
 <br>
 <br>
 <div align="center">
-  <h2>Contato</h2>
+  <h2><img src="https://cdn-icons-png.flaticon.com/512/3771/3771518.png" width="25" height="25" alt="Imagem icon sobre" />   Contato</h2>
     <a href="https://www.linkedin.com/in/matheus-luiz99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank">
     </a> 
 </div>
