@@ -13,13 +13,12 @@
 <br>
 <div align="center">
   <h2><img src="https://cdn-icons-png.flaticon.com/512/3706/3706499.png" width="25" height="25" alt="Imagem icon sobre" />  Sobre </h2>
-👨‍💻  Desenvolvedor apaixonado pelo front-end;  <br>
-🌱 <strong>Aprendendo sempre;</strong> <br>
-🏠 Caseiro; <br>
-🎮 <strong>( +/- ) Gamer;</strong> <br>
-💻 Steam https://steamcommunity.com/id/tikizer4/ <br>
-📺 <strong>Amo assistir séries/filmes em familia;</strong> <br>
-<br>
+    👨‍💻  Desenvolvedor apaixonado pelo front-end;  <br>
+    🌱 <strong>Aprendendo sempre;</strong> <br>
+    🏠 Caseiro; <br>
+    🎮 <strong>( +/- ) Gamer;</strong> <br>
+    💻 Steam https://steamcommunity.com/id/tikizer4/ <br>
+    📺 <strong>Amo assistir séries/filmes em familia;</strong> <br>
 </div>
 
 <br>
@@ -69,19 +68,22 @@
   <h2>Estatísticas do GitHub</h2>
   <a href="https://github.com/ProfMthLuiz/ProfMthLuiz"></a>
   <img align="center" width="45%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ProfMthLuiz&theme=cobalt&border=61dafb&hide_border=true" alt="dev"/>
-      <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfMthLuiz&theme=cobalt&layout=compact&langs_count=20&hide_title=true"/>
+  <img align="center" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfMthLuiz&theme=cobalt&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 
 <br>
 <br>
 <div align="center">
   <h2>Contato</h2>
-<a href="https://www.linkedin.com/in/matheus-luiz99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/matheus-luiz99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank">
+    </a> 
 </div>
 
 <br>
 <br>
+<br>
+<br>
 <div align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" style="display: inline-block;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" style="display: inline-block;">
 </div>
 
