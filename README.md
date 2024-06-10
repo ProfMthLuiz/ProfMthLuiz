@@ -75,7 +75,7 @@
 <br>
 <div align="center">
   <h2><img src="https://cdn-icons-png.flaticon.com/512/3771/3771518.png" width="25" height="25" alt="Imagem icon sobre" />   Contato</h2>
-    <a href="https://www.linkedin.com/in/matheus-luiz99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"     target="_blank">
+    <a href="https://www.linkedin.com/in/matheus-luiz99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
 </div>
 
