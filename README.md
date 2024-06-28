@@ -1,5 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&color=%bebebe&size=48&center=true&vCenter=true&width=1200&height=100&lines=Olá!;+Seja+bem+vindo+ao+meu+github+do+Senai!📚;+Tudo+bem+com+você?😄" alt="Typing SVG" style="display: inline-block;">
 
+<div align="center">
+
+<img src="https://media.tenor.com/lZ9AF7MUSYQAAAAj/cool-sunglasses.gif" width="150" height="150" >
+
+</div>
 
 <div align="center">
   <picture>
@@ -81,9 +86,8 @@
 
 <br>
 <br>
-<br>
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" style="display: inline-block;">
+
+<div align="center"> 
+<img src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </div>
 
