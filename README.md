@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/lZ9AF7MUSYQAAAAj/cool-sunglasses.gif" width="150" height="150" >
+<img src="https://media2.giphy.com/media/hLypYrddDLJhm/200w.gif?cid=82a1493bgrsda6dfvgr1uuzdyo8vpm1amfhkasrmk073fkxn&rid=200w.gif&ct=s" width="150" height="150" >
 
 </div>
 
