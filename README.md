@@ -28,7 +28,7 @@
     🏠 Caseiro; <br>
     🎮 <strong>( +/- ) Gamer;</strong> <br>
     💻 Steam1 https://steamcommunity.com/id/steamdotikizera/ <br>
-    🎮 Steam2 https://steamcommunity.com/id/tikizer4/ <br>
+    🎮 <strong>Steam2</strong> https://steamcommunity.com/id/tikizer4/ <br>
     💻 Steam3 https://steamcommunity.com/id/coetikizin/ <br>
     📺 <strong>Amo assistir séries/filmes em familia;</strong> <br>
 </div>
