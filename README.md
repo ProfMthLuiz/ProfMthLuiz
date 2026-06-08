@@ -36,7 +36,7 @@
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3OWQyZWI0MWU1YjM4Zjk3OTI0NTU5NDEyMWU5OTc3N2E5NWYxZiZjdD1z/fsEaZldNC8A1PJ3mwp/giphy.gif" width="57" height="62" alt="css" />
     </td>  
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -47,6 +47,9 @@
   </tr>
   <tr>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
     </td>
     <td align="center" width="96">
@@ -54,9 +57,6 @@
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
     </td>
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="icon" width="65" height="65" />
