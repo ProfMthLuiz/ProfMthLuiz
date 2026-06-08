@@ -6,20 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=1200&lines=Hi+there!+I'm+Matheus+Luiz;Student+of+Technology;Frontend+Developer+%26+Lifelong+Learner;Turning+Ideas+into+Code;Welcome+to+my+GitHub!" />
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ProfMthLuiz/ProfMthLuiz/output/github-contribution-grid-snake-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ProfMthLuiz/ProfMthLuiz/output/github-contribution-grid-snake.svg">
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/ProfMthLuiz/ProfMthLuiz/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
 <br>
 <br>
 
