@@ -13,16 +13,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-  
-<br>
-<br>
-
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=ProfMthLuiz&show_icons=true&rank_icon=github&theme=ambient_gradient&count_private=true"/>
-  <img height="180em"
-       src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=ProfMthLuiz&layout=compact&langs_count=8&theme=ambient_gradient&count_private=true"/>
-</div>
 
 <br>
 <br>
@@ -68,7 +58,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ProfMthLuiz&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ProfMthLuiz&theme=tokyonight" /> <br>
+  <img height="180em" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=ProfMthLuiz&show_icons=true&rank_icon=github&theme=ambient_gradient&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=ProfMthLuiz&layout=compact&langs_count=8&theme=ambient_gradient&count_private=true"/>
 </div>
 
 <br>
