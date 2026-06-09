@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:4F46E5,50:7C3AED,100:EC4899&section=header"/>
 
 <div align="center">
-  <img align="center" height="150" src="https://i.pinimg.com/originals/ee/d7/42/eed74269c71991865d3e64cddba8d95c.gif" />
+  <img align="center" height="150" src="https://i.pinimg.com/originals/b6/e9/97/b6e997fdce033838378b3bc7369b63df.gif" />
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=1200&lines=Hi+there!+I'm+Matheus+Luiz;Student+of+Technology;Frontend+Developer+%26+Lifelong+Learner;Turning+Ideas+into+Code;Welcome+to+my+GitHub!" />
