@@ -24,37 +24,33 @@
         <!-- FRONT-END -->
         <td align="center" width="220">
           <div style="display: flex;">
-             <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif"
-           width="65" height="65" alt="HTML5"/>
-              <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3OWQyZWI0MWU1YjM4Zjk3OTI0NTU5NDEyMWU5OTc3N2E5NWYxZiZjdD1z/fsEaZldNC8A1PJ3mwp/giphy.gif"
-           width="65" height="65" alt="CSS3"/>
+            <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" width="60" height="60" alt="HTML5"/>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3OWQyZWI0MWU1YjM4Zjk3OTI0NTU5NDEyMWU5OTc3N2E5NWYxZiZjdD1z/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" height="60" alt="CSS3"/>
+            <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="60" height="60" alt="Sass"/>
           </div>
           <div style="display: flex;">
-             <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
-              <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript"/>
-          </div>
-          <div style="display: flex;">
-             <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/>
-            <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" alt="Sass"/>
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" alt="TypeScript"/>
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React"/>
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript"/>
           </div>
         </td>
         <!-- BACK-END -->
         <td align="center" width="220">
           <div style="display: flex;">
-             <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="icon" width="65" height="65" />
+             <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="icon" width="60" height="60" />
           </div>
         </td>
         <!-- BANCO DE DADOS -->
         <td align="center" width="220">
           <div style="display: flex;">
-             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" alt="MySQL"/>
+             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" alt="MySQL"/>
           </div>
         </td>
         <!-- FERRAMENTAS -->
         <td align="center" width="220">
           <div style="display: flex;">
-             <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="65" height="65" alt="GitHub" />
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/960px-Visual_Studio_Code_1.18_icon.svg.png" width="65" height="65" alt="VSCode"/>
+             <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="60" height="60" alt="GitHub" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/960px-Visual_Studio_Code_1.18_icon.svg.png" width="65" height="60" alt="VSCode"/>
           </div>
         </td>
       </tr>
