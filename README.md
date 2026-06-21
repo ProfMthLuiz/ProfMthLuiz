@@ -37,20 +37,20 @@
         <!-- BACK-END -->
         <td align="center" width="220">
           <div style="display: flex;">
-             <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="icon" width="60" height="60" />
+             <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="icon" width="55" height="55" />
           </div>
         </td>
         <!-- BANCO DE DADOS -->
         <td align="center" width="220">
           <div style="display: flex;">
-             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" alt="MySQL"/>
+             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" alt="MySQL"/>
           </div>
         </td>
         <!-- FERRAMENTAS -->
         <td align="center" width="220">
           <div style="display: flex;">
-             <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="60" height="60" alt="GitHub" />
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/960px-Visual_Studio_Code_1.18_icon.svg.png" width="65" height="60" alt="VSCode"/>
+             <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="55" height="55" alt="GitHub" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/960px-Visual_Studio_Code_1.18_icon.svg.png" width="55" height="55" alt="VSCode"/>
           </div>
         </td>
       </tr>
