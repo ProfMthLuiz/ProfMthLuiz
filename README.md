@@ -7,6 +7,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=1200&lines=Hi+there!+I'm+Matheus+Luiz;Student+of+Technology;Frontend+Developer+%26+Lifelong+Learner;Turning+Ideas+into+Code;Welcome+to+my+GitHub!" />
 
 <br>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> About Me
+
+Hello! I'm **Matheus Luiz**, a Brazilian Full Stack Developer and Programming Instructor passionate about building modern web applications. My main technologies are **Laravel**, **React**, **TypeScript**, **JavaScript**, and **MySQL**, and I'm always looking for new challenges that help me grow as a developer. <br> 
+Beyond coding, I enjoy sharing knowledge, creating practical projects, and helping future developers take their first steps in programming.
+
+> *"Code with purpose. Learn continuously. Share knowledge."* 🚀
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies & Tools
 <br>
 
 <div align="center">
@@ -60,6 +71,8 @@
 
 <br>
 <br>
+
+## <img src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif" width="32px"> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ProfMthLuiz&theme=tokyonight" /> <br>
