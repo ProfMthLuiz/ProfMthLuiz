@@ -13,8 +13,6 @@
 Hello! I'm **Matheus Luiz**, a Brazilian Full Stack Developer and Programming Instructor passionate about building modern web applications. My main technologies are **Laravel**, **React**, **TypeScript**, **JavaScript**, and **MySQL**, and I'm always looking for new challenges that help me grow as a developer. <br> 
 Beyond coding, I enjoy sharing knowledge, creating practical projects, and helping future developers take their first steps in programming.
 
-> *"Code with purpose. Learn continuously. Share knowledge."* 🚀
-
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies & Tools
@@ -70,7 +68,6 @@ Beyond coding, I enjoy sharing knowledge, creating practical projects, and helpi
 </div>
 
 <br>
-<br>
 
 ## <img src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif" width="32px"> GitHub Analytics
 
@@ -81,10 +78,12 @@ Beyond coding, I enjoy sharing knowledge, creating practical projects, and helpi
 </div>
 
 <br>
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ProfMthLuiz&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
+  <br>
+
+*"Code with purpose. Learn continuously. Share knowledge."* 🚀
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:4F46E5,50:7C3AED,100:EC4899&section=footer"/>
