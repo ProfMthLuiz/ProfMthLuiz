@@ -18,7 +18,7 @@ Beyond coding, I enjoy sharing knowledge, creating practical projects, and helpi
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies & Tools
 <br>
 
-<div align="center">
+<div align="left">
   <table>
     <thead>
       <tr>
@@ -70,7 +70,7 @@ Beyond coding, I enjoy sharing knowledge, creating practical projects, and helpi
 <br>
 
 ## <img src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif" width="32px"> GitHub Analytics
-
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ProfMthLuiz&theme=tokyonight" /> <br>
   <img height="180em" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=ProfMthLuiz&show_icons=true&rank_icon=github&theme=ambient_gradient&count_private=true"/>
