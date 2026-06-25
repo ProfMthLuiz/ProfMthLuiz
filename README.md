@@ -12,7 +12,6 @@
 
 Hello! I'm **Matheus Luiz**, a Brazilian Full Stack Developer and Programming Instructor passionate about building modern web applications. My main technologies are **Laravel**, **React**, **TypeScript**, **JavaScript**, and **MySQL**, and I'm always looking for new challenges that help me grow as a developer. <br> 
 Beyond coding, I enjoy sharing knowledge, creating practical projects, and helping future developers take their first steps in programming.
-
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies & Tools
