@@ -13,11 +13,11 @@
 Hello! I'm **Matheus Luiz**, a Brazilian Full Stack Developer and Programming Instructor passionate about building modern web applications. My main technologies are **Laravel**, **React**, **TypeScript**, **JavaScript**, and **MySQL**, and I'm always looking for new challenges that help me grow as a developer. <br> 
 Beyond coding, I enjoy sharing knowledge, creating practical projects, and helping future developers take their first steps in programming.
 <br>
-
+<br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies & Tools
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" width="55" height="55" alt="HTML5"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3OWQyZWI0MWU1YjM4Zjk3OTI0NTU5NDEyMWU5OTc3N2E5NWYxZiZjdD1z/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55" height="55" alt="CSS3"/>
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="55" height="55" alt="Sass"/>
