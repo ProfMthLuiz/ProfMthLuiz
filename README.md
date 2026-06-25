@@ -82,10 +82,10 @@ Beyond coding, I enjoy sharing knowledge, creating practical projects, and helpi
   <br>
   <img src="https://komarev.com/ghpvc/?username=ProfMthLuiz&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
   <br>
-  <br>
-  "Code with purpose. Learn continuously. Share knowledge." 🚀
-
+  
   ![snake gif](https://github.com/ProfMthLuiz/ProfMthLuiz/blob/output/github-snake-dark.svg)
+  
+  "Code with purpose. Learn continuously. Share knowledge." 🚀
 </div>
 
 
