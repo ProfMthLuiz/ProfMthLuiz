@@ -18,19 +18,33 @@ Beyond coding, I enjoy sharing knowledge, creating practical projects, and helpi
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" width="55" height="55" alt="HTML5"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3OWQyZWI0MWU1YjM4Zjk3OTI0NTU5NDEyMWU5OTc3N2E5NWYxZiZjdD1z/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55" height="55" alt="CSS3"/>
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="55" height="55" alt="Sass"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/500px-PhpStorm_Icon.svg.png" width="60" height="55" alt="PHPStorm"/>
   <br>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React"/>
+  
+  <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" width="60" height="55" alt="HTML5"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3OWQyZWI0MWU1YjM4Zjk3OTI0NTU5NDEyMWU5OTc3N2E5NWYxZiZjdD1z/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" height="55" alt="CSS3"/>
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="60" height="55" alt="Sass"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQGl6RjAtCbIbw/feedshare-shrink_800/feedshare-shrink_800/0/1681191300659?e=2147483647&v=beta&t=-l1SSej1QADc4hw-KvNm-U8MiXjTuHhOQI1QiKc3nDM" width="60" height="55" alt="Php"/>
+ 
   <br>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="icon" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" alt="MySQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" width="60" height="55" alt="React"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="60" height="55" alt="Git"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="55" alt="React"/>
+ 
   <br>
-  <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="55" height="55" alt="GitHub" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/960px-Visual_Studio_Code_1.18_icon.svg.png" width="55" height="55" alt="VSCode"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="55" alt="JavaScript"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="55" alt="TypeScript"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="GitHub" width="60" height="55" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="55" alt="MySQL"/>
+  
+  <br>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-download-png-2945092.png" alt="icon" width="60" height="55" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="60" height="55" alt="GitHub" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/960px-Visual_Studio_Code_1.18_icon.svg.png" width="60" height="55" alt="VSCode"/>
+
+  <br>
+  <img src="https://images.icon-icons.com/1381/PNG/512/insomnia_94603.png" width="60" height="55" alt="Insomnia"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/composer.svg" width="60" height="55" alt="Composer"/>
 </div>
 
 <br>
