@@ -53,10 +53,9 @@ Beyond coding, I enjoy sharing knowledge, creating practical projects, and helpi
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ProfMthLuiz&theme=tokyonight" /> <br>
-  <img height="180em" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=ProfMthLuiz&show_icons=true&rank_icon=github&theme=ambient_gradient&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ProfMthLuiz&show_icons=true&rank_icon=github&theme=ambient_gradient&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=ProfMthLuiz&layout=compact&langs_count=8&theme=ambient_gradient&count_private=true"/>
 </div>
-
 <br>
 
 <div align="center">
