@@ -52,7 +52,7 @@ Beyond coding, I enjoy sharing knowledge, creating practical projects, and helpi
 ## <img src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif" width="32px"> GitHub Analytics
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ProfMthLuiz&theme=tokyonight" /> <br>
+  <img src="https://streak-stats.demolab.com/?user=ProfMthLuiz&theme=tokyonight" alt="GitHub Streak" /> <br>
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ProfMthLuiz&show_icons=true&rank_icon=github&theme=ambient_gradient&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=ProfMthLuiz&layout=compact&langs_count=8&theme=ambient_gradient&count_private=true"/>
 </div>
