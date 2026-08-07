@@ -10,8 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> About Me
 
-Hello! I'm **Matheus Luiz**, a Brazilian Full Stack Developer and Programming Instructor passionate about building modern web applications. My main technologies are **Laravel**, **React**, **TypeScript**, **JavaScript**, and **MySQL**, and I'm always looking for new challenges that help me grow as a developer. <br> 
-Beyond coding, I enjoy sharing knowledge, creating practical projects, and helping future developers take their first steps in programming.
+Olá! Sou **Matheus Luiz**, desenvolvedor Full Stack e instrutor de programação brasileiro, apaixonado por criar aplicações web modernas. Minhas principais tecnologias são *Laravel**, **React**, **TypeScript**, **JavaScript**, e **MySQL**, e estou sempre em busca de novos desafios que me ajudem a crescer como desenvolvedor. Além de programar, gosto de compartilhar conhecimento, criar projetos práticos e ajudar futuros desenvolvedores a darem seus primeiros passos na programação.
 <br>
 <br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies & Tools
