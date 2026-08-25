@@ -51,18 +51,18 @@ Olá! Sou **Matheus Luiz**, desenvolvedor Full Stack e instrutor de programaçã
 ## <img src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif" width="32px"> GitHub Analytics
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ProfMthLuiz&theme=ambient-gradient"/> <br>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ProfMthLuiz&show_icons=true&rank_icon=github&theme=ambient_gradient&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=ProfMthLuiz&layout=compact&langs_count=8&theme=ambient_gradient&count_private=true"/>
+  <img src="https://streak-stats.demolab.com/?user=programathevs&theme=ambient-gradient"/> <br>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=programathevs&show_icons=true&rank_icon=github&theme=ambient_gradient&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=programathevs&layout=compact&langs_count=8&theme=ambient_gradient&count_private=true"/>
 </div>
 <br>
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=ProfMthLuiz&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=programathevs&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
   <br>
   
-  ![snake gif](https://github.com/ProfMthLuiz/ProfMthLuiz/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/programathevs/programathevs/blob/output/github-snake-dark.svg)
   
   "Code with purpose. Learn continuously. Share knowledge." 🚀
 </div>
